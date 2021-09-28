@@ -6,7 +6,7 @@ toc_sticky: true
 categories: diary
   - Blog
 tags:
-  - 첫번째 커밋
+  - 일기
   
 ---
 ## 소제목1
