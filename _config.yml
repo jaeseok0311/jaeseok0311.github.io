@@ -105,7 +105,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "안녕하세요"
   location         : "Republic of Korea"
-  email            : "jaeseok0311@gmail.com
+  email            : "jaeseok0311@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
